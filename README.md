@@ -1,5 +1,5 @@
-# iPod-Classic
-## View this app at: https://amreshnit.github.io/ipod-mini/
+## React-music-player
+
 
 ## Basic Features.
 
