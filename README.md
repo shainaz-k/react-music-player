@@ -40,7 +40,7 @@
 2. Start by installing npm if you don't have it already.
 3. Navigate to Project Directory by :
 ```
-cd iPod-Classic
+cd react-music-player
 ```
 4. run following commands :
 ```
